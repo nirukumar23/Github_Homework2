@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Elsevier helps researchers and healthcare professionals advance science and improve health outcomes for the benefit of society.
+=======
+Elsevier helps healthcare, science and technology improve outcomes for the benefit of society by providing information solutions to researchers, students, and professionals.
+>>>>>>> test_versions_branch
